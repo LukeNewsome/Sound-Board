@@ -13,6 +13,7 @@
 		A3DCEBB322013666007E50E4 /* Sound_Board.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A3DCEBB122013666007E50E4 /* Sound_Board.xcdatamodeld */; };
 		A3DCEBB522013666007E50E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3DCEBB422013666007E50E4 /* Assets.xcassets */; };
 		A3DCEBB822013666007E50E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3DCEBB622013666007E50E4 /* LaunchScreen.storyboard */; };
+		A3DCEBC022013AA1007E50E4 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3DCEBBF22013AA1007E50E4 /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A3DCEBB422013666007E50E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A3DCEBB722013666007E50E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A3DCEBB922013666007E50E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A3DCEBBF22013AA1007E50E4 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				A3DCEBAA22013665007E50E4 /* AppDelegate.swift */,
 				A3DCEBAC22013666007E50E4 /* ViewController.swift */,
+				A3DCEBBF22013AA1007E50E4 /* SoundViewController.swift */,
 				A3DCEBAE22013666007E50E4 /* Main.storyboard */,
 				A3DCEBB422013666007E50E4 /* Assets.xcassets */,
 				A3DCEBB622013666007E50E4 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A3DCEBC022013AA1007E50E4 /* SoundViewController.swift in Sources */,
 				A3DCEBB322013666007E50E4 /* Sound_Board.xcdatamodeld in Sources */,
 				A3DCEBAD22013666007E50E4 /* ViewController.swift in Sources */,
 				A3DCEBAB22013665007E50E4 /* AppDelegate.swift in Sources */,
